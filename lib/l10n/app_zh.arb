@@ -1,0 +1,19 @@
+{
+    "wanandroid" : "玩Android",
+
+    "myIntegration" : "我的积分",
+    "myFavorite" : "我的收藏",
+    "myShared" : "我的分享",
+    "myTodo" : "TODO",
+    "darkMode" : "夜间模式",
+    "setting" : "主题设置",
+
+    "home" : "首页",
+    "plaza" : "广场",
+    "group" : "公众号",
+    "tree" : "导航",
+    "project" : "项目",
+
+     "newFlag" : "新"
+
+}

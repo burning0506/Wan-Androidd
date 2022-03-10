@@ -1,0 +1,19 @@
+{
+    "wanandroid" : "WanAndroid",
+
+    "myIntegration" : "My Integration",
+    "myFavorite" : "My Favorite",
+    "myShared" : "My Shared",
+    "myTodo" : "TODO",
+    "darkMode" : "Dark Mode",
+    "setting" : "Theme Settings",
+
+    "home" : "Home",
+    "plaza" : "Plaza",
+    "group" : "Group",
+    "tree" : "Navigation",
+    "project" : "Project",
+
+    "newFlag" : "New"
+
+}
